@@ -13,3 +13,4 @@ This Chat is not a literal bypass, its copying roblox Chat Interface
 
 ● 3. Ungroup ALL Folders
 
+● 4. Disable ChannelTabsConfiguration, ChatInputBarConfiguration, ChatWindowConfiguration In Text Chat Service (Enabled -> false)
